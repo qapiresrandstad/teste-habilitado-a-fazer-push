@@ -11,5 +11,6 @@
       cy.get('#mat-input-0').type("yiwaleg930@kixotic.com")
       cy.get('#mat-input-1').type("Teste123")
       cy.get('.mat-raised-button').click()
+      //mudando o comportamento 
         })
     })
