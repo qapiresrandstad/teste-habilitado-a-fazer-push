@@ -1,0 +1,17 @@
+{
+  "name": "automacao_portal_candidato",
+  "version": "1.0.0",
+  "description": "testes automatizados portal do candidato",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress run"
+  },
+  "author": "Luis Pires",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^11.1.0"
+  },
+  "dependencies": {
+    "save-dev": "^0.0.1-security"
+  }
+}
